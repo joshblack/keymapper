@@ -1,0 +1,18 @@
+{
+  "name": "react-keymapper",
+  "version": "0.0.1",
+  "description": "Simple utility component useful for handling keyboard shortcuts for triggering UI elements used frequently in development.",
+  "main": "src/KeyMapper.js",
+  "author": "Josh Black",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshblack/keymapper.git"
+  },
+  "devDependencies": {
+    "babel": "^5.3.3",
+    "babel-core": "^4.6.6",
+    "babel-eslint": "^3.1.1",
+    "babel-loader": "^5.0.0",
+    "eslint": "^0.17.1"
+  }
+}
